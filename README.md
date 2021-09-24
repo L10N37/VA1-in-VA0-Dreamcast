@@ -1,6 +1,6 @@
 # VA1-in-VA0-Dreamcast
 
-Just a snippet of code to generate a faked tacho / RPM signal to use the VA0 cooling / fan on a VA1 board that's been transplanted into a VA0 shell. You still need the VA1 controller PCB however as the pinouts are completely different.
+Just a snippet of code to generate a faked tacho / RPM signal to use the VA0 cooling / fan on a VA1 board that's been transplanted into a VA0 shell. You still need the VA1 controller PCB however, as the pinouts are completely different.
 
 The VA0 uses a 2 pin fan with a heat sensor strapped to the cooling pipes
 
